@@ -1,6 +1,6 @@
 [![Docker Build](https://github.com/ai-dock/comfyui/actions/workflows/docker-build.yml/badge.svg)](https://github.com/ai-dock/comfyui/actions/workflows/docker-build.yml)
 
-# AI-Dock + ComfyUI Docker Image
+# NOTHING TO SEE HERE (I'm at at again)
 
 Run [ComfyUI](https://github.com/comfyanonymous/ComfyUI) in a highly-configurable, cloud-first AI-Dock container.
 
